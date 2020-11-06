@@ -48,7 +48,7 @@
 <h2 align="center">My Projects:</h2>
 <center>
 <a href="https://github.com/Sharmi-1999/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=Crack-Buzz&theme=ayu-mirage&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=Portfolio&theme=ayu-mirage&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/getjobs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=getjobs&theme=ayu-mirage&layout=compact" />
