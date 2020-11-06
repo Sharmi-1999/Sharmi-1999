@@ -44,5 +44,38 @@
 </a>
   </div>
 
-
+<hr />
+<h2 align="center">Some of the projects I have worked on 👨‍💻:</h2>
+<center>
+<a href="https://github.com/chiraag-kakar/Crack-Buzz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Crack-Buzz&theme=ayu-mirage&layout=compact" />
+</a>
+<a href="https://github.com/chiraag-kakar/getjobs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=getjobs&theme=ayu-mirage&layout=compact" />
+</a>
+<a href="https://github.com/chiraag-kakar/My-Django-Blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=My-Django-Blog&theme=nord&layout=compact" />
+</a>
+<a href="https://github.com/chiraag-kakar/RailsBlog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=RailsBlog&theme=nord&layout=compact" />
+</a>
+<a href="https://github.com/chiraag-kakar/Netclone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Netclone&theme=dracula&layout=compact" />
+</a>
+<a href="https://github.com/chiraag-kakar/contactme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=contactme&theme=dracula&layout=compact" />
+</a>
+<a href="https://github.com/chiraag-kakar/PyAutomation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=PyAutomation&theme=yeblu&layout=compact" />
+</a>
+<a href="https://github.com/chiraag-kakar/theflaskestate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=theflaskestate&theme=yeblu&layout=compact" />
+</a>
+<a href="https://github.com/chiraag-kakar/predict">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=predict&theme=omni&layout=compact" />
+</a>
+<a href="https://github.com/chiraag-kakar/music">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=music&theme=omni&layout=compact" />
+</a>
+</center>
 
