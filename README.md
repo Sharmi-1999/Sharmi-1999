@@ -51,7 +51,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=Portfolio&theme=light&layout=compact" />
 </a>
   <a href="https://github.com/Sharmi-1999/covid-19-web-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=covid-19-web-app&theme=light&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=covid-19-web-app&theme=gruvbox&layout=compact" />
 </a>
 <a href="https://github.com/Sharmi-1999/mayo-momo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=mayo-momo&theme=ayu-mirage&layout=compact" />
