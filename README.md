@@ -50,8 +50,8 @@
 <a href="https://github.com/Sharmi-1999/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=Portfolio&theme=ayu-mirage&layout=compact" />
 </a>
-<a href="https://github.com/chiraag-kakar/getjobs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=getjobs&theme=ayu-mirage&layout=compact" />
+<a href="https://github.com/Sharmi-1999/mayo-momo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=mayo-momo&theme=ayu-mirage&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/My-Django-Blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=My-Django-Blog&theme=nord&layout=compact" />
