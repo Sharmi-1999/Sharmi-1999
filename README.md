@@ -39,11 +39,21 @@
 
 <hr />
 
-<div align="center">
+<div align="right">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sharmi-1999&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
   </div>
+  **Visitors Count**
+
+![VisitorCount](https://profile-counter.glitch.me/{aju100}/count.svg)
+
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aju-tamang/)
+
+😄 Pronouns: he/him/his
+
+⚡ Fun fact: I love eating foods.
+
 
 <hr />
 <b><h2 align="center">My Projects:</h2></b>
