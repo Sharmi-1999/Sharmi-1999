@@ -48,35 +48,17 @@
 <h2 align="center">My Projects:</h2>
 <center>
 <a href="https://github.com/Sharmi-1999/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=Portfolio&theme=ayu-mirage&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=Portfolio&theme=light&layout=compact" />
 </a>
 <a href="https://github.com/Sharmi-1999/mayo-momo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=mayo-momo&theme=ayu-mirage&layout=compact" />
 </a>
 <a href="https://github.com/Sharmi-1999/covid-19-web-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=covid-19-web-app&theme=nord&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=covid-19-web-app&theme=light&layout=compact" />
 </a>
 <a href="https://github.com/Sharmi-1999/EDC_JGEC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=EDC_JGEC&theme=nord&layout=compact" />
-</a>
-<a href="https://github.com/chiraag-kakar/Netclone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Netclone&theme=dracula&layout=compact" />
-</a>
-<a href="https://github.com/chiraag-kakar/contactme">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=contactme&theme=dracula&layout=compact" />
-</a>
-<a href="https://github.com/chiraag-kakar/PyAutomation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=PyAutomation&theme=yeblu&layout=compact" />
-</a>
-<a href="https://github.com/chiraag-kakar/theflaskestate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=theflaskestate&theme=yeblu&layout=compact" />
-</a>
-<a href="https://github.com/chiraag-kakar/predict">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=predict&theme=omni&layout=compact" />
-</a>
-<a href="https://github.com/chiraag-kakar/music">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=music&theme=omni&layout=compact" />
-</a>
+  </a>
 </center>
 
 <div align="center">
