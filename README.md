@@ -45,10 +45,10 @@
   </div>
 
 <hr />
-<h2 align="center">Some of the projects I have worked on 👨‍💻:</h2>
+<h2 align="center">My Projects:</h2>
 <center>
-<a href="https://github.com/chiraag-kakar/Crack-Buzz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Crack-Buzz&theme=ayu-mirage&layout=compact" />
+<a href="https://github.com/Sharmi-1999/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=Crack-Buzz&theme=ayu-mirage&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/getjobs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=getjobs&theme=ayu-mirage&layout=compact" />
@@ -78,4 +78,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=music&theme=omni&layout=compact" />
 </a>
 </center>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
 
