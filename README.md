@@ -45,7 +45,7 @@
 </a>
   **Visitors Count**
 
-![VisitorCount](https://profile-counter.glitch.me/{aju100}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{Sharmi-1999}/count.svg)
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aju-tamang/)
 
