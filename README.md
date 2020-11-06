@@ -6,6 +6,11 @@
 <a href="https://www.instagram.com/sharmistha.___/">
   <img align="left" alt="Sharmistha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="<a href="https://twitter.com/0212Chiraag">
+  <img align="right" alt="Chiraag Kakar - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>">
+  <img align="right" alt="Sharmistha - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>
 <a href="https://leetcode.com/user3534g/">
   <img align="left" alt="Sharmistha's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
