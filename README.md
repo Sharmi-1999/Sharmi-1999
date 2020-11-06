@@ -27,6 +27,7 @@
 - 👨‍🎓 Currently majoring in Information Technology from Jalpaiguri Government Engineering College (Batch of 2022).
 - 👯 I’m looking to collaborate on my projects.
 - 💬 Ask me about anything,I will be happy to help you. 
+- 📫 Contact me at sm2244@it.jgec.ac.in
 - ✨ Apart from Coding I love painting🎨 and music🎵.
 
 
@@ -40,9 +41,10 @@
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sharmi-1999&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sharmi-1999&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
-  **Visitors Count**
+  </div>
+  <!--**Visitors Count**
 
 ![VisitorCount](https://profile-counter.glitch.me/{Sharmi-1999}/count.svg)
 
@@ -51,7 +53,7 @@
 😄 Pronouns: She/her
 
 ⚡ Fun fact: I love eating foods.
-</div>
+</div>-->
 
 <hr />
 <b><h2 align="center">My Projects:</h2></b>
