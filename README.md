@@ -1,6 +1,5 @@
 ### Hi there, I am [Sharmistha!](https://sharmi-1999.github.io/Portfolio/)👋
-<br />
-<br />
+
 <a href="https://www.linkedin.com/in/sharmistha-mandal-636744194/">
   <img align="left" alt="Sharmistha's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -21,7 +20,8 @@
 **Sharmi-1999/Sharmi-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-
+<br />
+<br />
 - 🔭 I’m currently pursuing B.Tech...
 <!--- 🌱 I’m currently learning ...-->
 - 👯 I’m looking to collaborate on ...
