@@ -28,7 +28,7 @@
 - 👯 I’m looking to collaborate on my projects.
 - 💬 Ask me about anything,I will be happy to help you. 
 - 🔭 Contact me at sm2244@it.jgec.ac.in
-- ⚡ Apart from Coding I love painting and singing.
+- ✨ Apart from Coding I love painting and singing.
 
 
 <!--- 😄 Pronouns: ...
@@ -47,9 +47,7 @@
 
 ![VisitorCount](https://profile-counter.glitch.me/{Sharmi-1999}/count.svg)
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aju-tamang/)
-
-😄 Pronouns: he/him/his
+📫 How to reach me: [Gmail](sm2244@it.jgec.ac.in)
 
 ⚡ Fun fact: I love eating foods.
 </div>
