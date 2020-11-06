@@ -53,11 +53,11 @@
 <a href="https://github.com/Sharmi-1999/mayo-momo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=mayo-momo&theme=ayu-mirage&layout=compact" />
 </a>
-<a href="https://github.com/chiraag-kakar/My-Django-Blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=My-Django-Blog&theme=nord&layout=compact" />
+<a href="https://github.com/Sharmi-1999/covid-19-web-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=covid-19-web-app&theme=nord&layout=compact" />
 </a>
-<a href="https://github.com/chiraag-kakar/RailsBlog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=RailsBlog&theme=nord&layout=compact" />
+<a href="https://github.com/Sharmi-1999/EDC_JGEC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=EDC_JGEC&theme=nord&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/Netclone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Netclone&theme=dracula&layout=compact" />
