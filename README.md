@@ -38,8 +38,8 @@
 
 <hr />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderjeurissen&hide=php,java,html,markdown)
-![Stats](https://github-readme-stats.vercel.app/api?username=alexanderjeurissen&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmi-1999&hide=php,java,html,markdown&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Sharmi-1999&show_icons=true&count_private=true&line_height=40&theme=radical)
 
 <div align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderjeurissen&hide=php,java,html,markdown)
