@@ -45,7 +45,7 @@
   </div>
 
 <hr />
-<h2 align="center">My Projects:</h2>
+<b><h2 align="center">My Projects:</h2></b>
 <center>
 <a href="https://github.com/Sharmi-1999/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=Portfolio&theme=light&layout=compact" />
