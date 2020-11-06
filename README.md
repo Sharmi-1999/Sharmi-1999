@@ -1,5 +1,4 @@
-<h2 align="center"> Hi 👋, I am <a href="https://sharmi-1999.github.io/Portfolio/">Sharmistha</a>👨‍💻</h2>
-<h3>👨‍🎓 Majoring in Information Technology from Jalpaiguri Government Engineering College (Class of 2022)</h3> 
+<h2 align="center"> Hi 👋, I am <a href="https://sharmi-1999.github.io/Portfolio/">Sharmistha</a>👨‍💻</h2> 
 
 <a href="https://www.linkedin.com/in/sharmistha-mandal-636744194/">
   <img align="left" alt="Sharmistha's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -24,7 +23,7 @@
 <br />
 <br />
 
-- 🔭 I’m currently pursuing B.Tech...
+- 👨‍🎓 I’m currently Majoring in Information Technology from Jalpaiguri Government Engineering College (Class of 2022).
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
