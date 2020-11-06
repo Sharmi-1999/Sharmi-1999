@@ -50,12 +50,13 @@
 <a href="https://github.com/Sharmi-1999/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=Portfolio&theme=light&layout=compact" />
 </a>
+  <a href="https://github.com/Sharmi-1999/covid-19-web-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=covid-19-web-app&theme=light&layout=compact" />
+</a>
 <a href="https://github.com/Sharmi-1999/mayo-momo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=mayo-momo&theme=ayu-mirage&layout=compact" />
 </a>
-<a href="https://github.com/Sharmi-1999/covid-19-web-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=covid-19-web-app&theme=light&layout=compact" />
-</a>
+
 <a href="https://github.com/Sharmi-1999/EDC_JGEC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=EDC_JGEC&theme=nord&layout=compact" />
   </a>
