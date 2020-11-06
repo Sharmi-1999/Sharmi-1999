@@ -1,4 +1,4 @@
-### Hi 👋, I am [Sharmistha!](https://sharmi-1999.github.io/Portfolio/)
+<h1 align="center"> Hi 👋, I am [Sharmistha!](https://sharmi-1999.github.io/Portfolio/)</h1>
 
 <a href="https://www.linkedin.com/in/sharmistha-mandal-636744194/">
   <img align="left" alt="Sharmistha's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
