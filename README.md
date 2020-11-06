@@ -47,8 +47,8 @@
 
 ![VisitorCount](https://profile-counter.glitch.me/{Sharmi-1999}/count.svg)
 
-📫 How to reach me: [Gmail](sm2244@it.jgec.ac.in)
-
+📫 Contact me at sm2244@it.jgec.ac.in
+😄 Pronouns: She/her
 ⚡ Fun fact: I love eating foods.
 </div>
 
