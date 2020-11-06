@@ -38,9 +38,6 @@
 
 <hr />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmi-1999&hide=php,java,html,markdown&theme=radical)
-![Stats](https://github-readme-stats.vercel.app/api?username=Sharmi-1999&show_icons=true&count_private=true&line_height=40&theme=radical)
-
 <div align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderjeurissen&hide=php,java,html,markdown)
 <a href="https://github.com/anuraghazra/github-readme-stats">
