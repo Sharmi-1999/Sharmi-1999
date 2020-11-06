@@ -24,7 +24,7 @@
 <br />
 
 - 🎯 Looking for SDE opportunities where I can enhance my knowledge and learn new things.
-- 👨‍🎓 Currently majoring in Information Technology from Jalpaiguri Government Engineering College (Class of 2022).
+- 👨‍🎓 Currently majoring in Information Technology from Jalpaiguri Government Engineering College (Batch of 2022).
 - 👯 I’m looking to collaborate on my projects.
 - 💬 Ask me about anything,I will be happy to help you. 
 - ⚡ Apart from Coding I love painting and singing.
