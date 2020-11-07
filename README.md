@@ -15,9 +15,6 @@
 
 <!--
 **Sharmi-1999/Sharmi-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-
-<br />
 <br />
 
 - 🎯 Looking for SDE opportunities where I can enhance my knowledge and learn new things.
