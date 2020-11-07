@@ -1,5 +1,8 @@
 <h2 align="center"> Hi 👋, I am <a href="https://sharmi-1999.github.io/Portfolio/">Sharmistha</a>👨‍💻</h2> 
 
+[![](https://gitwar.herokuapp.com/badge?username=rajdeep2898&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+
+
 ## 🔗 Know more about me 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sharmi-1999.github.io/Portfolio/)
