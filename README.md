@@ -2,7 +2,7 @@
 [![](https://gitwar.herokuapp.com/badge?username=Sharmi-1999&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <p align="center">
-<br><img src="hello.gif" width="400px"><br><br>
+<br><img src="hello.gif" width="300px"><br><br>
 </p>
 
 <h2 align="center"> 👋, I am <a href="https://sharmi-1999.github.io/Portfolio/">Sharmistha</a>👨‍💻</h2> 
