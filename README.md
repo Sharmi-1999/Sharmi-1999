@@ -80,7 +80,7 @@
 </a>
 
 <a href="https://github.com/Sharmi-1999/EDC_JGEC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=EDC_JGEC&theme=flag-india&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=EDC_JGEC&theme=solarized-light&layout=compact" />
   </a>
 </center>
 
