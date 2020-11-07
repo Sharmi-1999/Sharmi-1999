@@ -2,6 +2,11 @@
 
 [![](https://gitwar.herokuapp.com/badge?username=Sharmi-1999&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
+<p align="center">
+<br><img src="hello.gif" width="600px"><br><br>
+</p>
+
+
 
 ## 🔗 Know more about me 
 
