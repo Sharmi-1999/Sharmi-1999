@@ -4,7 +4,6 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sharmi-1999.github.io/Portfolio/)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:sm2244@it.jgec.ac.in)
-[![Twitter](https://img.shields.io/badge/-imSharmistha-black?style=for-the-badge&logo=twitter)](https://twitter.com/SharmisthaMan19)
 [![Linkedin](https://img.shields.io/badge/-Sharmistha-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sharmistha-mandal-636744194/)
 [![Leetcode](https://img.shields.io/badge/-@meSharmistha-black?style=for-the-badge&logo=Leetcode)](https://leetcode.com/user3534g/)
 [![Hackerrank](https://img.shields.io/badge/-SHARMISTHA-black?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/sharmistha_m99)
