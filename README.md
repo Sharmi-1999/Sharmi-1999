@@ -13,22 +13,6 @@
 [![Instagram](https://img.shields.io/badge/-I'msharmistha-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/sharmistha.___/)
 
 
-<a href="https://www.linkedin.com/in/sharmistha-mandal-636744194/">
-  <img align="left" alt="Sharmistha's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/sharmistha.___/">
-  <img align="left" alt="Sharmistha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/SharmisthaMan19">
-  <img align="left" alt="Sharmistha Mandal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://leetcode.com/user3534g/">
-  <img align="left" alt="Sharmistha's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.hackerrank.com/sharmistha_m99">
-  <img align="left" alt="Sharmistha's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-
 <!--
 **Sharmi-1999/Sharmi-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
