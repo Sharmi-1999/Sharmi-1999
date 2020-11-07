@@ -70,7 +70,7 @@
 <b><h2 align="center">My Projects:</h2></b>
 <center>
 <a href="https://github.com/Sharmi-1999/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=Portfolio&theme=light&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=Portfolio&theme=solarized-light&layout=compact" />
 </a>
   <a href="https://github.com/Sharmi-1999/covid-19-web-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=covid-19-web-app&theme=gruvbox&layout=compact" />
