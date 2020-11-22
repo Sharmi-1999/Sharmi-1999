@@ -56,8 +56,8 @@
 <hr />
 <b><h2 align="center">My Projects:</h2></b>
 <center>
-<a href="https://github.com/Sharmi-1999/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=Portfolio&theme=solarized-light&layout=compact" />
+<a href="https://github.com/Sharmi-1999/Portfolio1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=Portfolio1&theme=solarized-light&layout=compact" />
 </a>
   <a href="https://github.com/Sharmi-1999/Covarate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=Covarate&theme=gruvbox&layout=compact" />
