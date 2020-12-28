@@ -5,11 +5,11 @@
 <br><img src="hello.gif" width="350px"><br><br>
 </p>
 
-<h2 align="center"> 👋, I am <a href="https://sharmi-1999.github.io/Portfolio1/">Sharmistha</a>👨‍💻</h2> 
+<h2 align="center"> 👋, I am <a href="https://sharmistha.herokuapp.com/">Sharmistha</a>👨‍💻</h2> 
 
 ## 🔗 Know more about me 
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sharmi-1999.github.io/Portfolio1/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sharmistha.herokuapp.com/)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:sm2244@it.jgec.ac.in)
 [![Linkedin](https://img.shields.io/badge/-Sharmistha-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sharmistha-mandal-636744194/)
 [![Leetcode](https://img.shields.io/badge/-meSharmistha-black?style=for-the-badge&logo=Leetcode)](https://leetcode.com/user3534g/)
@@ -56,7 +56,7 @@
 <hr />
 <b><h2 align="center">My Projects:</h2></b>
 <center>
-<a href="https://github.com/Sharmi-1999/Portfolio1">
+<a href="https://sharmistha.herokuapp.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=Portfolio1&theme=solarized-light&layout=compact" />
 </a>
   <a href="https://github.com/Sharmi-1999/Covarate">
