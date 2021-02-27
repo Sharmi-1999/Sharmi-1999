@@ -71,8 +71,8 @@
   <a href="https://github.com/Sharmi-1999/Covarate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=Covarate&theme=gruvbox&layout=compact" />
 </a>
-<a href="https://github.com/Sharmi-1999/mayo-momo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=mayo-momo&theme=dracula&layout=compact" />
+<a href="https://github.com/Sharmi-1999/Mayo-momo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharmi-1999&repo=Mayo-momo&theme=dracula&layout=compact" />
 </a>
 
 <a href="https://github.com/Sharmi-1999/EDC_JGEC">
