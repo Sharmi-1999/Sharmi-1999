@@ -5,7 +5,7 @@
 <br><img src="hello.gif" width="350px"><br><br>
 </p>
 
-<h2 align="center"> 👋, I am <a href="https://sharmistha.herokuapp.com/">Sharmistha</a>👨‍💻</h2> 
+<h2 align="center"> 👋, I am <a href="https://tender-lovelace-a7e5ef.netlify.app/">Sharmistha</a>👨‍💻</h2> 
 
 ## 🔗 Know more about me 
 
