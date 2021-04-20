@@ -9,7 +9,7 @@
 
 ## 🔗 Know more about me 
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sharmistha.herokuapp.com/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tender-lovelace-a7e5ef.netlify.app/)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:sm2244@it.jgec.ac.in)
 [![Linkedin](https://img.shields.io/badge/-Sharmistha-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sharmistha-mandal-636744194/)
 [![Leetcode](https://img.shields.io/badge/-meSharmistha-black?style=for-the-badge&logo=Leetcode)](https://leetcode.com/user3534g/)
