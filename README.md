@@ -22,10 +22,10 @@
 <br />
 
 - 🎯 Looking for learn new things each & everyday.
-- 👨‍🎓 Currently majoring in Information Technology from Jalpaiguri Government Engineering College (Batch of 2022).
+- 👨‍🎓 Currently I am working as a Frontend Engineer.
 - 👯 I’m looking to collaborate on my projects.
 - 💬 Ask me about anything,I will be happy to help you. 
-- 📫 Contact me at sm2244@it.jgec.ac.in
+- 📫 Contact me at sharmistha.m99@gmail.com
 - ✨ Apart from Coding I love painting🎨 and music🎵.
 
 
@@ -56,7 +56,7 @@
 
 ![VisitorCount](https://profile-counter.glitch.me/{Sharmi-1999}/count.svg)
 
-📫 Contact me at sm2244@it.jgec.ac.in
+📫 Contact me at sharmistha.m99@gmail.com
 
 😄 Pronouns: She/her
 
